@@ -20,7 +20,8 @@
   - Python
   - NLP
   - Machine Learning
-  - LSTM 
+  - LSTM
+  - Multi Head Attention
   - gRPC
 
 ### Screenchots:
